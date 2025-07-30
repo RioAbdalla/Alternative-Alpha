@@ -68,9 +68,9 @@ The agent is designed to work with multiple sources and supports **data validati
 ---
 
 ## 🤝 Contributors
-- Your Name (and teammates if applicable)  
+- Damario Abdalla
+- Paul Shi
+- Qingwen He
+- Jingwen Hu
 
 ---
-
-## 📜 License
-Add your chosen license here (MIT recommended if open-source).  
